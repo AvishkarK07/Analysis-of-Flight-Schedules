@@ -1,6 +1,6 @@
 # Analysis-of-Flight-Schedules
 
-![Blinkit_analysis](https://github.com/AvishkarK07/Blinkit-Grocery-Analysis/blob/main/Images/Blinkit1.png?raw=true)
+![Flight_analysis](https://github.com/AvishkarK07/Analysis-of-Flight-Schedules/blob/main/images/flights.jpg)
 
 
 ## Overview
