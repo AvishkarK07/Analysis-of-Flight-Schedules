@@ -1,1 +1,42 @@
 # Analysis-of-Flight-Schedules
+
+# Flight Dataset README
+
+## Overview
+
+This dataset contains flight records including scheduling, airlines,
+origins, destinations, delays, and aircraft details.\
+It includes **15,000 rows** and **10 columns**.
+
+## Columns
+
+-   **FlightID**: Unique identifier for each flight.\
+-   **Date**: Scheduled flight date.\
+-   **Airline**: Airline operating the flight.\
+-   **Origin**: Departure airport code.\
+-   **Destination**: Arrival airport code.\
+-   **DepartureTime**: Scheduled departure time.\
+-   **ArrivalTime**: Scheduled arrival time.\
+-   **Status**: Flight status (e.g., On Time, Cancelled).\
+-   **DelayMinutes**: Delay in minutes.\
+-   **AircraftType**: Type of aircraft used.
+
+## File Information
+
+-   Total records: 15,000\
+-   File type: Excel (.xlsx)
+
+## Usage
+
+This dataset can be used for: - Flight delay analysis\
+- Airline performance insights\
+- Predictive modeling\
+- Aircraft usage patterns\
+- Airport route analytics
+
+## Notes
+
+-   Time fields are stored as text and may require conversion for
+    time-series analysis.
+-   Dataset includes both historical and future-dated flights for
+    simulation purposes.
