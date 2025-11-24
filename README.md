@@ -46,4 +46,4 @@ This dataset can be used for: - Flight delay analysis\
     simulation purposes.
 
 <H1>Airline Performance Overview</H1>
-<img width="900" height="500" alt="item type" https://github.com/AvishkarK07/Analysis-of-Flight-Schedules/blob/main/images/dash1.png">
+<img width="900" height="500" alt="item type" https:https://github.com/AvishkarK07/Analysis-of-Flight-Schedules/blob/main/images/dash1.png">
