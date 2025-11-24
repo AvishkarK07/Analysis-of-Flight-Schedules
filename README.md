@@ -48,7 +48,7 @@ This dataset can be used for: - Flight delay analysis\
 <H1>✈️Airline Performance Overview</H1>
 <img width="900" height="450" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Analysis-of-Flight-Schedules/blob/main/images/dash1.png" />
 
-<H1>✈️light Monitoring Dashboard</H1>
+<H1>✈️Flight Monitoring Dashboard</H1>
 <img width="900" height="450" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Analysis-of-Flight-Schedules/blob/main/images/dash2.png" />
 
 
