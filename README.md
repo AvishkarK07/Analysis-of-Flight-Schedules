@@ -30,6 +30,22 @@ It includes **15,000 rows** and **10 columns**.
 -   Total records: 15,000\
 -   File type: Excel (.xlsx)
 
+  <h1>🛠️Data Cleaning Recommendations</h1>
+
+    - Convert Date, DepartureTime, ArrivalTime to datetime format
+    
+    - Treat missing values in delays or times
+    
+    - Standardize airport codes
+
+    - Create new columns like:
+    
+        - Flight Duration
+        
+        - Delay Category (Low / Medium / High)
+        
+        - IsDelayed (Yes/No)
+
 ## Usage
 
 This dataset can be used for: - Flight delay analysis\
